@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import os, json, cgi
+import os, json
 
 ### Print python env variables as plain text
 # print("Content-Type: text/plain")
