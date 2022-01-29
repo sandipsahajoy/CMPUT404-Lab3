@@ -1,2 +1,2 @@
 # CMPUT404-Lab3
-CGI Experiments
+Common Gateway Interface (CGI) Experiments
