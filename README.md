@@ -1,3 +1,2 @@
-# CMPUT404 CGI Experiments
-
-Experimenting with CGI server stuff!  
+# CMPUT404-Lab3
+CGI Experiments
